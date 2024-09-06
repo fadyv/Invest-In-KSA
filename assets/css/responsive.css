@@ -1,0 +1,251 @@
+
+@media all and (min-width: 1024px)   {
+    .dropdown:hover .dropdown-menu {
+        display: block;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: .5rem;
+    }
+
+    .navbar-nav {
+        margin-right: 140px;
+    }
+
+  
+ 
+
+}
+
+@media all and (min-width: 991px)   {
+    .fixed-blogs {
+        width: 384px; /* Adjust this width based on your design */
+        box-sizing: border-box;
+
+    }
+}
+
+
+@media all and (min-width: 1024px) and (max-width: 1200px)  {
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: .5rem;
+        font-size: 12px;
+    }
+    
+}
+
+
+
+@media all and (max-width: 991px) {
+  
+}
+
+@media all and (min-width: 991px) and (max-width: 1200px)  {
+
+   
+}
+
+@media all and (min-width: 991px) and (max-width: 1100px)  {
+   
+}
+
+@media all and (min-width: 1200px) and (max-width: 1500px)   {
+  
+
+  
+}
+
+@media all and (min-width: 1080px)  and (max-width: 1240px)  {
+    .fixed-blogs {
+        width: 294px;
+        box-sizing: border-box;
+    }
+}
+
+@media all and (min-width: 1240px)  and (max-width: 1360px)  {
+
+}
+
+
+@media all and (min-width: 1366px)  and (max-width: 1517px)  {
+    .container{
+        max-width: 1250px  ; 
+    }
+
+
+ 
+
+}
+
+
+@media all and (min-width: 1518px)  and (max-width: 2049px)  {
+    .container{
+        max-width: 1620px  ; 
+    }
+
+    
+}
+
+@media all and (min-width: 1517px)  and (max-width: 1707px)  {
+    .container{
+        max-width: 1350px  ; 
+
+       
+    }
+    .main-height {
+        height: 580px;
+    }
+
+    .fixed-blogs {
+        width: 420px;
+        box-sizing: border-box;
+    }
+}
+
+
+@media all and (min-width: 1707px)  and (max-width: 1821px)  {
+    .container{
+        max-width: 1500px  ; 
+    }
+    .fixed-blogs {
+        width: 469px;
+        box-sizing: border-box;
+    }
+}
+
+@media all and (min-width: 1500px)  and (max-width: 2049px)  {
+  
+}
+
+@media all and (min-width: 1821px)  and (max-width: 2050px)  {
+    .container{
+        max-width: 1770px ; 
+    }
+
+   
+}
+
+@media all and (min-width: 1821px){
+    .fixed-blogs {
+        width: 564px;
+        box-sizing: border-box;
+    }
+}
+
+
+@media all and (min-width: 2050px)   and (max-width: 4090px)   {
+    .container{
+        max-width: 2344px ; 
+    }
+    
+ 
+    
+}
+
+@media all and (min-width: 4098px)   and (max-width: 5200px)   {
+    .container{
+        max-width: 3344px ; 
+    }
+  
+}
+
+
+
+@media all and (max-width: 766px)   {
+  
+    .hero , .contact .contact-form ,.aboutpage{
+        background-size: cover;
+    }
+
+    .statge-image{
+        height: 205px;
+    }
+    .colmn-responsive{
+        flex-direction: column;
+        justify-content: center ;
+    }
+    .contact h3{
+        margin-top: 10px !important;
+        margin-bottom: 30px !important;
+    }
+    .contact{
+        padding-top: 15px;
+    }
+
+    .footer-item{
+        margin-top: 10px;
+    }
+    .footer a {
+        font-size: 13px;
+    }
+
+    .powred-by span{
+        font-size: 13px;
+    }
+}
+
+
+@media all and (min-width: 767px) and (max-width:1023px)   {
+    .blog-image{
+        height: 320px;
+    }
+    
+    .hero {
+        height: 53vh;
+        background-size: 100% 100%;
+    }
+
+    .statge-image{
+        height: 260px;
+    }
+
+    .statge2-image{
+        height: 97px;
+
+    }
+    
+}
+
+
+@media all and (max-width: 1024px)  {
+  
+    
+   
+   
+    .date{
+        border-left: 0px;
+    }
+   
+
+    .p-responsive-0{
+     padding: 0 !important;
+    }
+   
+   
+    
+    .footer-item .dropdown-item {
+        padding: 0rem 0rem !important;
+    }
+
+    .footer-data{
+        justify-content: start !important;
+    }
+
+ 
+
+    .page-title .w-50{
+        width: 100% !important;
+    }
+ 
+    .header-image {
+        height: 22vh;
+        background-size: cover;
+    }
+   
+} 
+@media (max-width: 991px) {
+    .fixed-blogs {
+        position: static  !important; /* Reset to static for smaller screens */
+        width: 100% !important; /* Allow width to be fluid */
+    }
+}  
